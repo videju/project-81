@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+.body_background {
+    background-image: Url("C:\Users\AMD\Desktop\V,S projects\project 81\colorful-pencil-background-vector-22576390.jpg");    
+background-position:  center;
+background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color: #ffffff;
+    border-style:ridge;
+}
